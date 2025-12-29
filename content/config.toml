@@ -1,29 +1,29 @@
 [site]
-title = "Jiale Liu"
-description = "PhD student at the University of Example."
+title = "Hongyi (Ben) Huang"
+description = "Visiting Scholar at the Southern University of Science and Technology."
 favicon = "/favicon.svg"
-last_updated = "November 18, 2025"
+last_updated = "Dec 29, 2025"
 
 [author]
-name = "Jiale Liu"
-title = "PhD Student"
-institution = "University of Example"
-avatar = "/bio.jpg"
+name = "Hongyi (Ben) Huang"
+title = "Visiting Scholar"
+institution = "Southern University of Science and Technology"
+avatar = "/photo.png"
 
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "john.doe@example.com"
-location = "City, Country"
-location_url = "https://maps.google.com"
+email = "hongyi.huang.research@gmail.com"
+location = "Shenzhen, China"
+location_url = "https://hongyihuang.xyz"
 location_details = [
-  "Room 123, Science Building,",
-  "University Avenue, City, Country"
+  "Room 343B, South Building, College of Engineering,",
+  "SUSTech, Shenzhen, China"
 ]
-google_scholar = "https://scholar.google.com"
-orcid = "https://orcid.org"
-github = "https://github.com"
-linkedin = "https://linkedin.com"
+google_scholar = "https://scholar.google.com/citations?user=XaX0fvsAAAAJ"
+orcid = "https://orcid.org/0009-0007-2733-7366"
+github = "https://github.com/hongyi-h"
+linkedin = "https://www.linkedin.com/in/hongyi-huang00"
 
 [features]
 # Show a like button on the about page
@@ -44,23 +44,35 @@ type = "page"
 target = "publications"
 href = "/publications"
 
-[[navigation]]
-title = "Teaching"
-type = "page"
-target = "teaching"
-href = "/teaching"
+# [[navigation]]
+# title = "Teaching"
+# type = "page"
+# target = "teaching"
+# href = "/teaching"
 
 [[navigation]]
-title = "Awards"
+title = "Prizes"
 type = "page"
-target = "awards"
-href = "/awards"
+target = "prizes"
+href = "/prizes"
+
+# [[navigation]]
+# title = "Awards"
+# type = "page"
+# target = "awards"
+# href = "/awards"
+
+# [[navigation]]
+# title = "Services"
+# type = "page"
+# target = "services"
+# href = "/services"
 
 [[navigation]]
-title = "Services"
+title = "Experience"
 type = "page"
-target = "services"
-href = "/services"
+target = "experience"
+href = "/experience"
 
 [[navigation]]
 title = "CV"

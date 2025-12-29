@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am currently a **Visiting Scholar** in the College of Engineering at **Southern University of Science and Technology (SUSTech)**, where I work closely with [A/Prof. Mingkai Zheng](https://scholar.google.com/citations?user=u439xWYAAAAJ).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research lies at the intersection of **Generative AI** and **3D/4D Vision**. I am also keen on exploring the transformative potential of Artificial Intelligence in interdisciplinary fields, particularly **AI4Healthcare** (work closely with [Xiaowen Hu](https://scholar.google.com/citations?user=falivk4AAAAJ) and [Prof. Wei Liu](https://scholar.google.com/citations?user=2gqfu9AAAAAJ)) and **AI4Music** (work closely with [Dr. Tim Morris](http://www.cs.man.ac.uk/~tmorris/index.htm)).
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+Prior to joining SUSTech, I obtained my **MSc** degree in **Advanced Computer Science (Artificial Intelligence)** from the **University of Manchester** supervised by [Tim Morris](http://www.cs.man.ac.uk/~tmorris/index.htm), and my **BEng** degree in **Computer Science and Technology** from **Harbin University of Science and Technology** supervised by Jianhui Han.
